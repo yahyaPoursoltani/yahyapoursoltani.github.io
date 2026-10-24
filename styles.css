@@ -127,10 +127,6 @@ button {
   text-decoration-color: var(--accent);
 }
 
-.ltr {
-  direction: ltr;
-  unicode-bidi: isolate;
-}
 
 .masthead {
   position: sticky;
@@ -206,14 +202,6 @@ button {
   gap: 1rem;
 }
 
-.cv-link {
-  font-family: var(--font-sans);
-  font-size: 0.76rem;
-  color: var(--accent);
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 0.25em;
-}
 
 .lang-btn {
   padding: 0;
